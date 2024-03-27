@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { client } from "../connection";
+import { client } from "../db/connection";
 
 const router = Router();
 
