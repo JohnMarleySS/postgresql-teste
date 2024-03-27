@@ -7,10 +7,6 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 dotenv.config();
 
-interface RequestBody {
-  name: string;
-}
-
 app.use(router);
 
 const appListen = process.env.PORT || 3001;
