@@ -13,8 +13,8 @@ Este projeto é uma REST API com várias rotas, incluindo operações como GET, 
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/JohnMarleySS/postgresql-restapi.git
-    cd postgresql-restapi
+    git clone [https://github.com/JohnMarleySS/postgresql-restapi.git](https://github.com/JohnMarleySS/postgresql-teste.git)
+    cd postgresql-teste
     ```
 
 2. Instale as dependências:
