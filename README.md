@@ -13,7 +13,7 @@ Este projeto é uma REST API com várias rotas, incluindo operações como GET, 
 
 1. Clone o repositório:
     ```bash
-    git clone [https://github.com/JohnMarleySS/postgresql-restapi.git](https://github.com/JohnMarleySS/postgresql-teste.git)
+    git clone https://github.com/JohnMarleySS/postgresql-teste.git
     cd postgresql-teste
     ```
 
